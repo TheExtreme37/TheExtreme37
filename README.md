@@ -19,7 +19,8 @@ Projects im associated with
 ArcticOS
 
 
-The languages I use
+The languages I use include Javascript with some python and C.
+
 
 My Socials
 
