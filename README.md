@@ -6,11 +6,11 @@ from them. Im always a half-empty cup ready to learn.
 
 My Interest
 
-Programming/Computer Science
-I.T
-Computer enthusiast
-Car enthusiast
-Christain
+Programming/Computer Science,
+I.T,
+Computer enthusiast,
+Car enthusiast,
+Christain,
 Learning German
 
 
