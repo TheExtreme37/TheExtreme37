@@ -22,10 +22,10 @@ Projects I am associated with
 
 
 Where to contact me
-  Discord
+- Discord
   - @wolvez5354 (main)
   - @wolvezalt (alternative)
-  Email
+- Email
   - matthewjones0418@gmail.com
 
 
